@@ -1,4 +1,4 @@
-###　7/15 mtg
+### 7/15 mtg
 #### Akihiro Sakurai
 
 ---
