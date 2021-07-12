@@ -1,0 +1,24 @@
+/*!
+ * additonal options for slides
+ */
+.reveal .slide-number {
+  font-size: 24pt;
+  color: #000000;
+  right: initial;
+  left: 8px;
+  top: 8px;
+  bottom: initial;
+  background-color: initial;
+}
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  text-transform: none;
+}
+.reveal .slides {
+  text-align: left;
+}
+
